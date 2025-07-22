@@ -6,7 +6,7 @@ from datetime import datetime
 
 bot = telebot.TeleBot("8157830738:AAENZ5upaAIkRe6EHmelbVi1iOKwpD_bOxo")
 
-CHANNEL_USERNAME = "lolvalsvo"  # Публичный канал без "@"
+CHANNEL_USERNAME = "organicspavl"  # Публичный канал без "@"
 MANAGERS_CHAT_ID = -1002505424671  # ID группы с менеджерами
 
 user_data = {}
